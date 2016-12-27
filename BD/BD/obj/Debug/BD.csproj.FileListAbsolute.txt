@@ -1,0 +1,152 @@
+c:\users\артём\documents\visual studio 2012\Projects\BD\BD\bin\Debug\BD.exe.config
+c:\users\артём\documents\visual studio 2012\Projects\BD\BD\bin\Debug\BD.exe
+c:\users\артём\documents\visual studio 2012\Projects\BD\BD\bin\Debug\BD.pdb
+c:\users\артём\documents\visual studio 2012\Projects\BD\BD\bin\Debug\Mono.Security.dll
+c:\users\артём\documents\visual studio 2012\Projects\BD\BD\obj\Debug\BD.csprojResolveAssemblyReference.cache
+c:\users\артём\documents\visual studio 2012\Projects\BD\BD\obj\Debug\BD.Form1.resources
+c:\users\артём\documents\visual studio 2012\Projects\BD\BD\obj\Debug\BD.Properties.Resources.resources
+c:\users\артём\documents\visual studio 2012\Projects\BD\BD\obj\Debug\BD.csproj.GenerateResource.Cache
+c:\users\артём\documents\visual studio 2012\Projects\BD\BD\obj\Debug\BD.exe
+c:\users\артём\documents\visual studio 2012\Projects\BD\BD\obj\Debug\BD.pdb
+C:\Users\Артём\Downloads\BD\BD\bin\Debug\BD.exe.config
+C:\Users\Артём\Downloads\BD\BD\obj\Debug\BD.exe
+C:\Users\Артём\Downloads\BD\BD\obj\Debug\BD.pdb
+C:\Users\Артём\Downloads\BD\BD\bin\Debug\BD.exe
+C:\Users\Артём\Downloads\BD\BD\bin\Debug\BD.pdb
+C:\Users\Артём\Downloads\BD\BD\bin\Debug\Mono.Security.dll
+C:\Users\Артём\Downloads\BD\BD\obj\Debug\BD.csprojResolveAssemblyReference.cache
+C:\Users\Артём\Downloads\BD\BD\obj\Debug\BD.Form1.resources
+C:\Users\Артём\Downloads\BD\BD\obj\Debug\BD.Properties.Resources.resources
+C:\Users\Артём\Downloads\BD\BD\obj\Debug\BD.csproj.GenerateResource.Cache
+C:\Users\Артём\Downloads\BD\BD\obj\Debug\BD.Form2.resources
+C:\Users\Артём\Documents\BD\BD\bin\Debug\BD.exe.config
+C:\Users\Артём\Documents\BD\BD\obj\Debug\BD.exe
+C:\Users\Артём\Documents\BD\BD\obj\Debug\BD.pdb
+C:\Users\Артём\Documents\BD\BD\bin\Debug\BD.exe
+C:\Users\Артём\Documents\BD\BD\bin\Debug\BD.pdb
+C:\Users\Артём\Documents\BD\BD\bin\Debug\Mono.Security.dll
+C:\Users\Артём\Documents\BD\BD\obj\Debug\BD.csprojResolveAssemblyReference.cache
+C:\Users\Артём\Documents\BD\BD\obj\Debug\BD.csproj.GenerateResource.Cache
+C:\Users\Артём\Documents\BD\BD\obj\Debug\BD2.Autorization.resources
+C:\Users\Артём\Documents\BD\BD\obj\Debug\BD2.Readership.resources
+C:\Users\Артём\Documents\BD\BD\obj\Debug\BD2.Tables.resources
+C:\Users\Артём\Documents\BD\BD\obj\Debug\BD2.Properties.Resources.resources
+C:\Users\Артём\Documents\BD\BD\obj\Debug\BD2.Readership_info.resources
+C:\Users\Артём\Documents\BD\BD\obj\Debug\BD3.Librarians.resources
+C:\Users\Артём\Documents\BD\BD\obj\Debug\BD4.Filials.resources
+C:\Users\Артём\Documents\BD\BD\obj\Debug\BD5.Books.resources
+C:\Users\Артём\Documents\BD\BD\obj\Debug\BD6.Books_info.resources
+C:\Users\Артём\Documents\BD\BD\obj\Debug\BD7.Get_books.resources
+C:\Users\Артём\Documents\BD\BD\obj\Debug\BD8.Sessions.resources
+C:\Users\Артём\Documents\BD\BD\obj\Debug\BD9.Stats.resources
+D:\Учёба\БСБД\Курсовая\BD\BD\bin\Debug\BD.exe.config
+D:\Учёба\БСБД\Курсовая\BD\BD\obj\Debug\BD.exe
+D:\Учёба\БСБД\Курсовая\BD\BD\obj\Debug\BD.pdb
+D:\Учёба\БСБД\Курсовая\BD\BD\bin\Debug\BD.exe
+D:\Учёба\БСБД\Курсовая\BD\BD\bin\Debug\BD.pdb
+D:\Учёба\БСБД\Курсовая\BD\BD\bin\Debug\Mono.Security.dll
+D:\Учёба\БСБД\Курсовая\BD\BD\obj\Debug\BD.csprojResolveAssemblyReference.cache
+D:\Учёба\БСБД\Курсовая\BD\BD\obj\Debug\BD2.Autorization.resources
+D:\Учёба\БСБД\Курсовая\BD\BD\obj\Debug\BD2.Readership.resources
+D:\Учёба\БСБД\Курсовая\BD\BD\obj\Debug\BD2.Tables.resources
+D:\Учёба\БСБД\Курсовая\BD\BD\obj\Debug\BD2.Properties.Resources.resources
+D:\Учёба\БСБД\Курсовая\BD\BD\obj\Debug\BD2.Readership_info.resources
+D:\Учёба\БСБД\Курсовая\BD\BD\obj\Debug\BD3.Librarians.resources
+D:\Учёба\БСБД\Курсовая\BD\BD\obj\Debug\BD4.Filials.resources
+D:\Учёба\БСБД\Курсовая\BD\BD\obj\Debug\BD5.Books.resources
+D:\Учёба\БСБД\Курсовая\BD\BD\obj\Debug\BD6.Books_info.resources
+D:\Учёба\БСБД\Курсовая\BD\BD\obj\Debug\BD7.Get_books.resources
+D:\Учёба\БСБД\Курсовая\BD\BD\obj\Debug\BD8.Sessions.resources
+D:\Учёба\БСБД\Курсовая\BD\BD\obj\Debug\BD9.Stats.resources
+D:\Учёба\БСБД\Курсовая\BD\BD\obj\Debug\BD.csproj.GenerateResource.Cache
+D:\УЧЕБА\БЕЗОПАСНОСТЬ СИСТЕМ БАЗ ДАННЫХ\КУРСОВАЯ РАБОТА\Курсовая\BD\BD\bin\Debug\BD.exe.config
+D:\УЧЕБА\БЕЗОПАСНОСТЬ СИСТЕМ БАЗ ДАННЫХ\КУРСОВАЯ РАБОТА\Курсовая\BD\BD\obj\Debug\BD.exe
+D:\УЧЕБА\БЕЗОПАСНОСТЬ СИСТЕМ БАЗ ДАННЫХ\КУРСОВАЯ РАБОТА\Курсовая\BD\BD\obj\Debug\BD.pdb
+D:\Bis 31\БСБД\КУРСОВАЯ РАБОТА (СДАЛ)\Курсовая\BD\BD\bin\Debug\BD.exe.config
+D:\Bis 31\БСБД\КУРСОВАЯ РАБОТА (СДАЛ)\Курсовая\BD\BD\obj\Debug\BD.exe
+D:\Bis 31\БСБД\КУРСОВАЯ РАБОТА (СДАЛ)\Курсовая\BD\BD\obj\Debug\BD.pdb
+D:\Bis 31\БСБД\КУРСОВАЯ РАБОТА (СДАЛ)\Курсовая\BD\BD\bin\Debug\BD.exe
+D:\Bis 31\БСБД\КУРСОВАЯ РАБОТА (СДАЛ)\Курсовая\BD\BD\bin\Debug\BD.pdb
+D:\Bis 31\БСБД\КУРСОВАЯ РАБОТА (СДАЛ)\Курсовая\BD\BD\bin\Debug\Mono.Security.dll
+D:\Bis 31\БСБД\КУРСОВАЯ РАБОТА (СДАЛ)\Курсовая\BD\BD\obj\Debug\BD.csprojResolveAssemblyReference.cache
+D:\Bis 31\БСБД\КУРСОВАЯ РАБОТА (СДАЛ)\Курсовая\BD\BD\obj\Debug\BD2.Autorization.resources
+D:\Bis 31\БСБД\КУРСОВАЯ РАБОТА (СДАЛ)\Курсовая\BD\BD\obj\Debug\BD2.Tables.resources
+D:\Bis 31\БСБД\КУРСОВАЯ РАБОТА (СДАЛ)\Курсовая\BD\BD\obj\Debug\BD2.Properties.Resources.resources
+D:\Bis 31\БСБД\КУРСОВАЯ РАБОТА (СДАЛ)\Курсовая\BD\BD\obj\Debug\BD4.Filials.resources
+D:\Bis 31\БСБД\КУРСОВАЯ РАБОТА (СДАЛ)\Курсовая\BD\BD\obj\Debug\BD8.Sessions.resources
+D:\Bis 31\БСБД\КУРСОВАЯ РАБОТА (СДАЛ)\Курсовая\BD\BD\obj\Debug\BD9.Stats.resources
+D:\Bis 31\БСБД\КУРСОВАЯ РАБОТА (СДАЛ)\Курсовая\BD\BD\obj\Debug\BD.csproj.GenerateResource.Cache
+D:\Bis 31\БСБД\КУРСОВАЯ РАБОТА (СДАЛ)\Курсовая\BD\BD\obj\Debug\BD2.Base_clients.resources
+D:\Bis 31\БСБД\КУРСОВАЯ РАБОТА (СДАЛ)\Курсовая\BD\BD\obj\Debug\BD3.Users.resources
+D:\Bis 31\БСБД\КУРСОВАЯ РАБОТА (СДАЛ)\Курсовая\BD\BD\obj\Debug\BD5.Apartments.resources
+D:\Bis 31\БСБД\КУРСОВАЯ РАБОТА (СДАЛ)\Курсовая\BD\BD\obj\Debug\BD6.Apartments_info.resources
+D:\Bis 31\БСБД\КУРСОВАЯ РАБОТА (СДАЛ)\Курсовая\BD\BD\obj\Debug\BD7.Buy_apartments.resources
+D:\Bis 31\БСБД\КУРСОВАЯ РАБОТА (СДАЛ)\Курсовая\BD\BD\obj\Debug\BD2.Clients.resources
+C:\Users\Tanya\Desktop\3курс\КУРСОВАЯ РАБОТА (СДАЛ)\Курсовая\BD\BD\bin\Debug\BD.exe.config
+C:\Users\Tanya\Desktop\3курс\КУРСОВАЯ РАБОТА (СДАЛ)\Курсовая\BD\BD\obj\Debug\BD.exe
+C:\Users\Tanya\Desktop\3курс\КУРСОВАЯ РАБОТА (СДАЛ)\Курсовая\BD\BD\obj\Debug\BD.pdb
+D:\Bis 31\КУРСОВАЯ РАБОТА (СДАЛ)\Курсовая\BD\BD\bin\Debug\BD.exe.config
+D:\Bis 31\КУРСОВАЯ РАБОТА (СДАЛ)\Курсовая\BD\BD\obj\Debug\BD.exe
+D:\Bis 31\КУРСОВАЯ РАБОТА (СДАЛ)\Курсовая\BD\BD\obj\Debug\BD.pdb
+D:\Bis 31\КУРСОВАЯ РАБОТА (СДАЛ)\Курсовая\BD\BD\bin\Debug\BD.exe
+D:\Bis 31\КУРСОВАЯ РАБОТА (СДАЛ)\Курсовая\BD\BD\bin\Debug\BD.pdb
+D:\Bis 31\КУРСОВАЯ РАБОТА (СДАЛ)\Курсовая\BD\BD\bin\Debug\Mono.Security.dll
+D:\Bis 31\КУРСОВАЯ РАБОТА (СДАЛ)\Курсовая\BD\BD\obj\Debug\BD.csprojResolveAssemblyReference.cache
+D:\Bis 31\КУРСОВАЯ РАБОТА (СДАЛ)\Курсовая\BD\BD\obj\Debug\BD2.Autorization.resources
+D:\Bis 31\КУРСОВАЯ РАБОТА (СДАЛ)\Курсовая\BD\BD\obj\Debug\BD2.Base_clients.resources
+D:\Bis 31\КУРСОВАЯ РАБОТА (СДАЛ)\Курсовая\BD\BD\obj\Debug\BD2.Tables.resources
+D:\Bis 31\КУРСОВАЯ РАБОТА (СДАЛ)\Курсовая\BD\BD\obj\Debug\BD2.Properties.Resources.resources
+D:\Bis 31\КУРСОВАЯ РАБОТА (СДАЛ)\Курсовая\BD\BD\obj\Debug\BD2.Clients.resources
+D:\Bis 31\КУРСОВАЯ РАБОТА (СДАЛ)\Курсовая\BD\BD\obj\Debug\BD3.Users.resources
+D:\Bis 31\КУРСОВАЯ РАБОТА (СДАЛ)\Курсовая\BD\BD\obj\Debug\BD4.Filials.resources
+D:\Bis 31\КУРСОВАЯ РАБОТА (СДАЛ)\Курсовая\BD\BD\obj\Debug\BD5.Apartments.resources
+D:\Bis 31\КУРСОВАЯ РАБОТА (СДАЛ)\Курсовая\BD\BD\obj\Debug\BD6.Apartments_info.resources
+D:\Bis 31\КУРСОВАЯ РАБОТА (СДАЛ)\Курсовая\BD\BD\obj\Debug\BD7.Buy_apartments.resources
+D:\Bis 31\КУРСОВАЯ РАБОТА (СДАЛ)\Курсовая\BD\BD\obj\Debug\BD8.Sessions.resources
+D:\Bis 31\КУРСОВАЯ РАБОТА (СДАЛ)\Курсовая\BD\BD\obj\Debug\BD9.Stats.resources
+D:\Bis 31\КУРСОВАЯ РАБОТА (СДАЛ)\Курсовая\BD\BD\obj\Debug\BD.csproj.GenerateResource.Cache
+D:\Bis 31\КУРСОВАЯ РАБОТА\Курсовая\BD\BD\bin\Debug\BD.exe.config
+D:\Bis 31\КУРСОВАЯ РАБОТА\Курсовая\BD\BD\obj\Debug\BD.exe
+D:\Bis 31\КУРСОВАЯ РАБОТА\Курсовая\BD\BD\obj\Debug\BD.pdb
+C:\Users\Андрей\Desktop\КУРСОВАЯ РАБОТА (1)\КУРСОВАЯ РАБОТА\Курсовая\BD\BD\bin\Debug\BD.exe.config
+C:\Users\Андрей\Desktop\КУРСОВАЯ РАБОТА (1)\КУРСОВАЯ РАБОТА\Курсовая\BD\BD\obj\Debug\BD.exe
+C:\Users\Андрей\Desktop\КУРСОВАЯ РАБОТА (1)\КУРСОВАЯ РАБОТА\Курсовая\BD\BD\obj\Debug\BD.pdb
+C:\Users\Андрей\Desktop\КУРСОВАЯ РАБОТА (1)\КУРСОВАЯ РАБОТА\Курсовая\BD\BD\bin\Debug\BD.exe
+C:\Users\Андрей\Desktop\КУРСОВАЯ РАБОТА (1)\КУРСОВАЯ РАБОТА\Курсовая\BD\BD\bin\Debug\BD.pdb
+C:\Users\Андрей\Desktop\КУРСОВАЯ РАБОТА (1)\КУРСОВАЯ РАБОТА\Курсовая\BD\BD\bin\Debug\Mono.Security.dll
+C:\Users\Андрей\Desktop\КУРСОВАЯ РАБОТА (1)\КУРСОВАЯ РАБОТА\Курсовая\BD\BD\obj\Debug\BD.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Desktop\КУРСОВАЯ РАБОТА (1)\КУРСОВАЯ РАБОТА\Курсовая\BD\BD\obj\Debug\BD2.Autorization.resources
+C:\Users\Андрей\Desktop\КУРСОВАЯ РАБОТА (1)\КУРСОВАЯ РАБОТА\Курсовая\BD\BD\obj\Debug\BD2.Base_clients.resources
+C:\Users\Андрей\Desktop\КУРСОВАЯ РАБОТА (1)\КУРСОВАЯ РАБОТА\Курсовая\BD\BD\obj\Debug\BD2.Tables.resources
+C:\Users\Андрей\Desktop\КУРСОВАЯ РАБОТА (1)\КУРСОВАЯ РАБОТА\Курсовая\BD\BD\obj\Debug\BD2.Properties.Resources.resources
+C:\Users\Андрей\Desktop\КУРСОВАЯ РАБОТА (1)\КУРСОВАЯ РАБОТА\Курсовая\BD\BD\obj\Debug\BD2.Clients.resources
+C:\Users\Андрей\Desktop\КУРСОВАЯ РАБОТА (1)\КУРСОВАЯ РАБОТА\Курсовая\BD\BD\obj\Debug\BD3.Users.resources
+C:\Users\Андрей\Desktop\КУРСОВАЯ РАБОТА (1)\КУРСОВАЯ РАБОТА\Курсовая\BD\BD\obj\Debug\BD4.Filials.resources
+C:\Users\Андрей\Desktop\КУРСОВАЯ РАБОТА (1)\КУРСОВАЯ РАБОТА\Курсовая\BD\BD\obj\Debug\BD5.Apartments.resources
+C:\Users\Андрей\Desktop\КУРСОВАЯ РАБОТА (1)\КУРСОВАЯ РАБОТА\Курсовая\BD\BD\obj\Debug\BD6.Apartments_info.resources
+C:\Users\Андрей\Desktop\КУРСОВАЯ РАБОТА (1)\КУРСОВАЯ РАБОТА\Курсовая\BD\BD\obj\Debug\BD7.Buy_apartments.resources
+C:\Users\Андрей\Desktop\КУРСОВАЯ РАБОТА (1)\КУРСОВАЯ РАБОТА\Курсовая\BD\BD\obj\Debug\BD8.Sessions.resources
+C:\Users\Андрей\Desktop\КУРСОВАЯ РАБОТА (1)\КУРСОВАЯ РАБОТА\Курсовая\BD\BD\obj\Debug\BD9.Stats.resources
+C:\Users\Андрей\Desktop\КУРСОВАЯ РАБОТА (1)\КУРСОВАЯ РАБОТА\Курсовая\BD\BD\obj\Debug\BD.csproj.GenerateResource.Cache
+C:\Users\Андрей\Desktop\КУРСОВАЯ РАБОТА (1)\КУРСОВАЯ РАБОТА\Курсовая\BD\BD\obj\Debug\BD2.AddUser.resources
+C:\Users\Андрей\Desktop\КУРСОВАЯ РАБОТА (1)\КУРСОВАЯ РАБОТА (1)\КУРСОВАЯ РАБОТА\Курсовая\BD\BD\bin\Debug\BD.exe.config
+C:\Users\Андрей\Desktop\КУРСОВАЯ РАБОТА (1)\КУРСОВАЯ РАБОТА (1)\КУРСОВАЯ РАБОТА\Курсовая\BD\BD\obj\Debug\BD.exe
+C:\Users\Андрей\Desktop\КУРСОВАЯ РАБОТА (1)\КУРСОВАЯ РАБОТА (1)\КУРСОВАЯ РАБОТА\Курсовая\BD\BD\obj\Debug\BD.pdb
+C:\Users\Андрей\Desktop\КУРСОВАЯ РАБОТА (1)\КУРСОВАЯ РАБОТА (1)\КУРСОВАЯ РАБОТА\Курсовая\BD\BD\bin\Debug\BD.exe
+C:\Users\Андрей\Desktop\КУРСОВАЯ РАБОТА (1)\КУРСОВАЯ РАБОТА (1)\КУРСОВАЯ РАБОТА\Курсовая\BD\BD\bin\Debug\BD.pdb
+C:\Users\Андрей\Desktop\КУРСОВАЯ РАБОТА (1)\КУРСОВАЯ РАБОТА (1)\КУРСОВАЯ РАБОТА\Курсовая\BD\BD\bin\Debug\Mono.Security.dll
+C:\Users\Андрей\Desktop\КУРСОВАЯ РАБОТА (1)\КУРСОВАЯ РАБОТА (1)\КУРСОВАЯ РАБОТА\Курсовая\BD\BD\obj\Debug\BD.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Desktop\КУРСОВАЯ РАБОТА (1)\КУРСОВАЯ РАБОТА (1)\КУРСОВАЯ РАБОТА\Курсовая\BD\BD\obj\Debug\BD2.AddUser.resources
+C:\Users\Андрей\Desktop\КУРСОВАЯ РАБОТА (1)\КУРСОВАЯ РАБОТА (1)\КУРСОВАЯ РАБОТА\Курсовая\BD\BD\obj\Debug\BD2.Autorization.resources
+C:\Users\Андрей\Desktop\КУРСОВАЯ РАБОТА (1)\КУРСОВАЯ РАБОТА (1)\КУРСОВАЯ РАБОТА\Курсовая\BD\BD\obj\Debug\BD2.Base_clients.resources
+C:\Users\Андрей\Desktop\КУРСОВАЯ РАБОТА (1)\КУРСОВАЯ РАБОТА (1)\КУРСОВАЯ РАБОТА\Курсовая\BD\BD\obj\Debug\BD2.Tables.resources
+C:\Users\Андрей\Desktop\КУРСОВАЯ РАБОТА (1)\КУРСОВАЯ РАБОТА (1)\КУРСОВАЯ РАБОТА\Курсовая\BD\BD\obj\Debug\BD2.Properties.Resources.resources
+C:\Users\Андрей\Desktop\КУРСОВАЯ РАБОТА (1)\КУРСОВАЯ РАБОТА (1)\КУРСОВАЯ РАБОТА\Курсовая\BD\BD\obj\Debug\BD2.Clients.resources
+C:\Users\Андрей\Desktop\КУРСОВАЯ РАБОТА (1)\КУРСОВАЯ РАБОТА (1)\КУРСОВАЯ РАБОТА\Курсовая\BD\BD\obj\Debug\BD3.Users.resources
+C:\Users\Андрей\Desktop\КУРСОВАЯ РАБОТА (1)\КУРСОВАЯ РАБОТА (1)\КУРСОВАЯ РАБОТА\Курсовая\BD\BD\obj\Debug\BD4.Filials.resources
+C:\Users\Андрей\Desktop\КУРСОВАЯ РАБОТА (1)\КУРСОВАЯ РАБОТА (1)\КУРСОВАЯ РАБОТА\Курсовая\BD\BD\obj\Debug\BD5.Apartments.resources
+C:\Users\Андрей\Desktop\КУРСОВАЯ РАБОТА (1)\КУРСОВАЯ РАБОТА (1)\КУРСОВАЯ РАБОТА\Курсовая\BD\BD\obj\Debug\BD6.Apartments_info.resources
+C:\Users\Андрей\Desktop\КУРСОВАЯ РАБОТА (1)\КУРСОВАЯ РАБОТА (1)\КУРСОВАЯ РАБОТА\Курсовая\BD\BD\obj\Debug\BD7.Buy_apartments.resources
+C:\Users\Андрей\Desktop\КУРСОВАЯ РАБОТА (1)\КУРСОВАЯ РАБОТА (1)\КУРСОВАЯ РАБОТА\Курсовая\BD\BD\obj\Debug\BD8.Sessions.resources
+C:\Users\Андрей\Desktop\КУРСОВАЯ РАБОТА (1)\КУРСОВАЯ РАБОТА (1)\КУРСОВАЯ РАБОТА\Курсовая\BD\BD\obj\Debug\BD9.Stats.resources
+C:\Users\Андрей\Desktop\КУРСОВАЯ РАБОТА (1)\КУРСОВАЯ РАБОТА (1)\КУРСОВАЯ РАБОТА\Курсовая\BD\BD\obj\Debug\BD.csproj.GenerateResource.Cache
